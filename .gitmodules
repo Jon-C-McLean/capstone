@@ -2,3 +2,7 @@
 	path = capstone_hwlib
 	url = git@github.com:Jon-C-McLean/capstone_hwlib.git
 	branch = main
+[submodule "capstone_arm_control_node"]
+	path = capstone_arm_control_node
+	url = git@github.com:Jon-C-McLean/capstone_arm_control_node.git
+	branch = main
